@@ -4,4 +4,5 @@
 예제 코드: https://web.archive.org/web/20230408134411/https://webfrontend.org/
 
 ## 목차
-- [Chap1. 웹 성능이란 무엇인가?](https://github.com/minsuhan1/web-performance-optimization/blob/main/Chap01_%EC%9B%B9%20%EC%84%B1%EB%8A%A5%EC%9D%B4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
+- [Chapter 1. 웹 성능이란 무엇인가?](https://github.com/minsuhan1/web-performance-optimization/blob/main/Chap01_%EC%9B%B9%20%EC%84%B1%EB%8A%A5%EC%9D%B4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
+- [Chapter 2. 웹 최적화](https://github.com/minsuhan1/web-performance-optimization/blob/main/Chap02_%EC%9B%B9%20%EC%B5%9C%EC%A0%81%ED%99%94.md)
